@@ -6,7 +6,7 @@ import warnings
 import statistics 
 import altair as alt
 
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.pyplot as plt
 warnings.filterwarnings('ignore')
 
