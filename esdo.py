@@ -1,13 +1,13 @@
 import streamlit as st
-#import plotly.express as px
 import pandas as pd
 import os
 import warnings
 import statistics 
 import altair as alt
 
-#import seaborn as sns
+import seaborn as sns
 import matplotlib.pyplot as plt
+import plotly.express as px
 warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="ESDO Analytics Report!", page_icon=":bar_chart:",layout="wide")
